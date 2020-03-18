@@ -15,7 +15,7 @@ Como material de estudo, utilizei os vídeo da [Michelli brito](https://www.yout
 ## Gostaria de acessar a aplicação?
 Utilizei o [Heroku](https://www.heroku.com) para fazer o deploy da minha aplicação, e você pode acessá-la clicando no caminho abaixo:
 
-apirest-beta-produtos.herokuapp.com/swagger-ui.html/
+[apirest-beta-produtos.herokuapp.com/swagger-ui.html/](apirest-beta-produtos.herokuapp.com/swagger-ui.html/)
 
 Dúvidas, comentários ou dicas? 
 [Fale comigo!](https://www.linkedin.com/in/dev-roberta-novaes/)
