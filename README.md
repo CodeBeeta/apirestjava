@@ -4,11 +4,11 @@ Nesse repositório está o que pratiquei nos meus estudos sobre criar uma Api Re
 Utilizei o Setup:
 
 **SPRING BOOT SETUP (start.spring.io)**
--Maeven
--Devtools
--Web
--JPA
--Mysql
+- Maeven
+- Devtools
+- Web
+- JPA
+- Mysql
 
 Como material de estudo, utilizei os vídeo da [Michelli brito](https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow/videos) no Youtube, e alguns artigos no Medium.
 
