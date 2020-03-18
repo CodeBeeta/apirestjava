@@ -1,2 +1,21 @@
-# apirestjava
-Estudo sobre API Rest em java
+#Api Rest em Java
+Olá!
+Nesse repositório está o que pratiquei nos meus estudos sobre criar uma Api Rest com Java e SpringBoot.
+Utilizei o Setup:
+
+**SPRING BOOT SETUP (start.spring.io)**
+-Maeven
+-Devtools
+-Web
+-JPA
+-Mysql
+
+Como material de estudo, utilizei os vídeo da [Michelli brito](https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow/videos) no Youtube, e alguns artigos no Medium.
+
+##Gostaria de acessar a aplicação?
+Utilizei o [Heroku](https://www.heroku.com) para fazer o deploy da minha aplicação, e você pode acessá-la clicando no caminho abaixo:
+
+apirest-beta-produtos.herokuapp.com/swagger-ui.html/
+
+Dúvidas, comentários ou dicas? 
+[Fale comigo!](https://www.linkedin.com/in/dev-roberta-novaes/)
